@@ -1,0 +1,6 @@
+plugin.tx_ictisharethis_pi1 {
+
+    header = {$plugin.tx_ictisharethis_pi1.header}
+    code = {$plugin.tx_ictisharethis_pi1.code}
+
+}

@@ -1,0 +1,7 @@
+plugin.tx_ictisharethis_pi1 {
+
+    header = <script type="text/javascript">var switchTo5x=false;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'4984c0f9-05ac-4f44-97ab-276f3b9f95d3'});</script>
+
+    code = <span  class='st_twitter_large' ></span><span  class='st_facebook_large' ></span><span  class='st_email_large' ></span><span  class='st_sharethis_large' ></span>
+
+}
